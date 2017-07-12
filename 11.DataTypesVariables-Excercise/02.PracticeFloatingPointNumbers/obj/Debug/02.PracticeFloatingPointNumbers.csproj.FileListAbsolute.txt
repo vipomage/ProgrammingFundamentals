@@ -1,0 +1,11 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.pdb

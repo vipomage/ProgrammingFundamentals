@@ -1,0 +1,6 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\08.SmsTyping\bin\Debug\08.SmsTyping.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\08.SmsTyping\bin\Debug\08.SmsTyping.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\08.SmsTyping\bin\Debug\08.SmsTyping.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\08.SmsTyping\obj\Debug\08.SmsTyping.csprojResolveAssemblyReference.cache
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\08.SmsTyping\obj\Debug\08.SmsTyping.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\08.SmsTyping\obj\Debug\08.SmsTyping.pdb

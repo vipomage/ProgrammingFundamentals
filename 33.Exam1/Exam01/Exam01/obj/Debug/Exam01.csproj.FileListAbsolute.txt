@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\Exam01\bin\Debug\Exam01.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\Exam01\bin\Debug\Exam01.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\Exam01\bin\Debug\Exam01.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\Exam01\obj\Debug\Exam01.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\Exam01\obj\Debug\Exam01.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\Exam01\obj\Debug\Exam01.csprojResolveAssemblyReference.cache

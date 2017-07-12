@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.pdb

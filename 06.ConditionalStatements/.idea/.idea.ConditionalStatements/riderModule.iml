@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../02.ChooseADrinkV2.0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../03.RestaurantDiscount" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../04_Hotel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../05.WordInPlural" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../06.IntervalOfNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../07.CakeIngredients" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.ChooseADrinkV2.0/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.ChooseADrinkV2.0/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../03.RestaurantDiscount/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../03.RestaurantDiscount/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../04_Hotel/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../04_Hotel/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../05.WordInPlural/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../05.WordInPlural/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../06.IntervalOfNumbers/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../06.IntervalOfNumbers/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../07.CakeIngredients/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../07.CakeIngredients/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../002_ProgrammingFundamentals25.05/Excercises/ConditionalStatements/01.ChooseADrink">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../002_ProgrammingFundamentals25.05/Excercises/ConditionalStatements/01.ChooseADrink" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../002_ProgrammingFundamentals25.05/Excercises/ConditionalStatements/01.ChooseADrink/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../002_ProgrammingFundamentals25.05/Excercises/ConditionalStatements/01.ChooseADrink/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

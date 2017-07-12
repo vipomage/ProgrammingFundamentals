@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\05.BookLibrary\bin\Debug\05.BookLibrary.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\05.BookLibrary\bin\Debug\05.BookLibrary.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\05.BookLibrary\bin\Debug\05.BookLibrary.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\05.BookLibrary\obj\Debug\05.BookLibrary.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\05.BookLibrary\obj\Debug\05.BookLibrary.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\05.BookLibrary\obj\Debug\05.BookLibrary.pdb

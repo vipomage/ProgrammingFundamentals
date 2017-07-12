@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\03.Megapixels\bin\Debug\03.Megapixels.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\03.Megapixels\bin\Debug\03.Megapixels.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\03.Megapixels\obj\Debug\03.Megapixels.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\03.Megapixels\obj\Debug\03.Megapixels.pdb

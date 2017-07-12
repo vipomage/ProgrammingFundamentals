@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csprojResolveAssemblyReference.cache

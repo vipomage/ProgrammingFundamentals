@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\01.HelloName\bin\Debug\01.HelloName.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\01.HelloName\bin\Debug\01.HelloName.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\01.HelloName\bin\Debug\01.HelloName.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\01.HelloName\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\01.HelloName\obj\Debug\01.HelloName.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\01.HelloName\obj\Debug\01.HelloName.pdb

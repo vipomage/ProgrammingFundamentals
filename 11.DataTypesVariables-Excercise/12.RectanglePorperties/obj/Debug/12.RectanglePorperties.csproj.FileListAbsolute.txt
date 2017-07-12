@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\12.RectanglePorperties\bin\Debug\12.RectanglePorperties.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\12.RectanglePorperties\bin\Debug\12.RectanglePorperties.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\12.RectanglePorperties\bin\Debug\12.RectanglePorperties.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\12.RectanglePorperties\obj\Debug\12.RectanglePorperties.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\12.RectanglePorperties\obj\Debug\12.RectanglePorperties.pdb

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\05.ArrayManipulator\bin\Debug\05.ArrayManipulator.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\05.ArrayManipulator\bin\Debug\05.ArrayManipulator.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\05.ArrayManipulator\bin\Debug\05.ArrayManipulator.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.csprojResolveAssemblyReference.cache

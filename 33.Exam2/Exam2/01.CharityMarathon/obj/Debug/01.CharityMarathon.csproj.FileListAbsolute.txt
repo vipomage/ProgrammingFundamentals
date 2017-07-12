@@ -1,0 +1,12 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam_1\Exam1\01.CharityMarathon\bin\Debug\01.CharityMarathon.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam_1\Exam1\01.CharityMarathon\bin\Debug\01.CharityMarathon.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam_1\Exam1\01.CharityMarathon\bin\Debug\01.CharityMarathon.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam_1\Exam1\01.CharityMarathon\obj\Debug\01.CharityMarathon.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam_1\Exam1\01.CharityMarathon\obj\Debug\01.CharityMarathon.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam_1\Exam1\01.CharityMarathon\obj\Debug\01.CharityMarathon.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\01.CharityMarathon\bin\Debug\01.CharityMarathon.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\01.CharityMarathon\bin\Debug\01.CharityMarathon.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\01.CharityMarathon\bin\Debug\01.CharityMarathon.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\01.CharityMarathon\obj\Debug\01.CharityMarathon.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\01.CharityMarathon\obj\Debug\01.CharityMarathon.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\01.CharityMarathon\obj\Debug\01.CharityMarathon.pdb

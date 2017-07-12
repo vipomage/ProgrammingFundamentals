@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\10_MultiplicationTableV.2\bin\Debug\10_MultiplicationTableV.2.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\10_MultiplicationTableV.2\bin\Debug\10_MultiplicationTableV.2.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\10_MultiplicationTableV.2\bin\Debug\10_MultiplicationTableV.2.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\10_MultiplicationTableV.2\obj\Debug\10_MultiplicationTableV.2.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\10_MultiplicationTableV.2\obj\Debug\10_MultiplicationTableV.2.pdb

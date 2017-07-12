@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\03.CameraView\bin\Debug\03.CameraView.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\03.CameraView\bin\Debug\03.CameraView.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\03.CameraView\bin\Debug\03.CameraView.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\03.CameraView\obj\Debug\03.CameraView.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\03.CameraView\obj\Debug\03.CameraView.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\03.CameraView\obj\Debug\03.CameraView.csprojResolveAssemblyReference.cache

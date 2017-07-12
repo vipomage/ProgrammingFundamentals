@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\03.NetherRealms\bin\Debug\03.NetherRealms.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\03.NetherRealms\bin\Debug\03.NetherRealms.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\03.NetherRealms\bin\Debug\03.NetherRealms.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\03.NetherRealms\obj\Debug\03.NetherRealms.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\03.NetherRealms\obj\Debug\03.NetherRealms.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam2\Exam2\03.NetherRealms\obj\Debug\03.NetherRealms.pdb

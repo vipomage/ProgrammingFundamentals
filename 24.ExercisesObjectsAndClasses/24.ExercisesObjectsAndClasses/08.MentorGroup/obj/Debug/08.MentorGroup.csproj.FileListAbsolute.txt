@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\08.MentorGroup\bin\Debug\08.MentorGroup.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\08.MentorGroup\bin\Debug\08.MentorGroup.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\08.MentorGroup\bin\Debug\08.MentorGroup.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\08.MentorGroup\obj\Debug\08.MentorGroup.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\08.MentorGroup\obj\Debug\08.MentorGroup.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\08.MentorGroup\obj\Debug\08.MentorGroup.pdb

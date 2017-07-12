@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\01.SortTimes\bin\Debug\01.SortTimes.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\01.SortTimes\bin\Debug\01.SortTimes.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\01.SortTimes\bin\Debug\01.SortTimes.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\01.SortTimes\obj\Debug\01.SortTimes.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\01.SortTimes\obj\Debug\01.SortTimes.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\01.SortTimes\obj\Debug\01.SortTimes.pdb

@@ -1,0 +1,12 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\bin\Debug\01_CenturiesToMinutes.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\bin\Debug\01_CenturiesToMinutes.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\bin\Debug\01_CenturiesToMinutes.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\obj\Debug\01_CenturiesToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\obj\Debug\01_CenturiesToMinutes.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\obj\Debug\01_CenturiesToMinutes.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\bin\Debug\01_CenturiesToMinutes.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\bin\Debug\01_CenturiesToMinutes.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\bin\Debug\01_CenturiesToMinutes.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\obj\Debug\01_CenturiesToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\obj\Debug\01_CenturiesToMinutes.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\01_CenturiesToMinutes\obj\Debug\01_CenturiesToMinutes.pdb

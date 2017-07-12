@@ -1,0 +1,6 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\05.BPMCounter\obj\Debug\05.BPMCounter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\04.DistanceBetweenPoints\bin\Debug\04.DistanceBetweenPoints.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\04.DistanceBetweenPoints\bin\Debug\04.DistanceBetweenPoints.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\04.DistanceBetweenPoints\bin\Debug\04.DistanceBetweenPoints.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\04.DistanceBetweenPoints\obj\Debug\04.DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\04.DistanceBetweenPoints\obj\Debug\04.DistanceBetweenPoints.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\04.DistanceBetweenPoints\obj\Debug\04.DistanceBetweenPoints.pdb

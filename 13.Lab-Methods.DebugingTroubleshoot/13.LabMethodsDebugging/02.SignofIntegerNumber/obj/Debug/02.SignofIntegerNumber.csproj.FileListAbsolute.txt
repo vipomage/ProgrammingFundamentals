@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\02.SignofIntegerNumber\bin\Debug\02.SignofIntegerNumber.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\02.SignofIntegerNumber\bin\Debug\02.SignofIntegerNumber.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\02.SignofIntegerNumber\bin\Debug\02.SignofIntegerNumber.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\02.SignofIntegerNumber\obj\Debug\02.SignofIntegerNumber.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\02.SignofIntegerNumber\obj\Debug\02.SignofIntegerNumber.pdb

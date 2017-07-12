@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\03.MinerTask\bin\Debug\03.MinerTask.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\03.MinerTask\bin\Debug\03.MinerTask.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\03.MinerTask\bin\Debug\03.MinerTask.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\03.MinerTask\obj\Debug\03.MinerTask.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\03.MinerTask\obj\Debug\03.MinerTask.pdb

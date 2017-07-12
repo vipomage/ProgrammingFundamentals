@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\03.EnduranceRally\bin\Debug\03.EnduranceRally.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\03.EnduranceRally\bin\Debug\03.EnduranceRally.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\03.EnduranceRally\bin\Debug\03.EnduranceRally.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\03.EnduranceRally\obj\Debug\03.EnduranceRally.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\03.EnduranceRally\obj\Debug\03.EnduranceRally.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\03.EnduranceRally\obj\Debug\03.EnduranceRally.pdb

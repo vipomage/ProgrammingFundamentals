@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\04.SupermarketDatabase\bin\Debug\04.SupermarketDatabase.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\04.SupermarketDatabase\bin\Debug\04.SupermarketDatabase.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\04.SupermarketDatabase\bin\Debug\04.SupermarketDatabase.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\04.SupermarketDatabase\obj\Debug\04.SupermarketDatabase.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\04.SupermarketDatabase\obj\Debug\04.SupermarketDatabase.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\04.SupermarketDatabase\obj\Debug\04.SupermarketDatabase.pdb

@@ -1,0 +1,10 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\bin\Debug\03_ExactSumOfRealNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\bin\Debug\03_ExactSumOfRealNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\bin\Debug\03_ExactSumOfRealNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\obj\Debug\03_ExactSumOfRealNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\obj\Debug\03_ExactSumOfRealNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\bin\Debug\03_ExactSumOfRealNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\bin\Debug\03_ExactSumOfRealNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\bin\Debug\03_ExactSumOfRealNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\obj\Debug\03_ExactSumOfRealNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\03_ExactSumOfRealNumbers\obj\Debug\03_ExactSumOfRealNumbers.pdb

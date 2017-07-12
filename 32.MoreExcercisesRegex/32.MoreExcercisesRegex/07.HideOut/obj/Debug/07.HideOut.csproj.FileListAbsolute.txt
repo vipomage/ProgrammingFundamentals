@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\07.HideOut\bin\Debug\07.HideOut.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\07.HideOut\bin\Debug\07.HideOut.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\07.HideOut\bin\Debug\07.HideOut.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\07.HideOut\obj\Debug\07.HideOut.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\07.HideOut\obj\Debug\07.HideOut.pdb

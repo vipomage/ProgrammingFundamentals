@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.pdb

@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\06.MathPower\bin\Debug\06.MathPower.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\06.MathPower\bin\Debug\06.MathPower.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\06.MathPower\bin\Debug\06.MathPower.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\06.MathPower\obj\Debug\06.MathPower.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\06.MathPower\obj\Debug\06.MathPower.pdb

@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\04.FilledSquare\bin\Debug\04.FilledSquare.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\04.FilledSquare\bin\Debug\04.FilledSquare.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\04.FilledSquare\bin\Debug\04.FilledSquare.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\04.FilledSquare\obj\Debug\04.FilledSquare.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\04.FilledSquare\obj\Debug\04.FilledSquare.pdb

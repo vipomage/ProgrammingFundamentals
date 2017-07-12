@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\18.Lab-Lists\01.RemoveNegativesNdReverse\bin\Debug\01.RemoveNegativesNdReverse.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\18.Lab-Lists\01.RemoveNegativesNdReverse\bin\Debug\01.RemoveNegativesNdReverse.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\18.Lab-Lists\01.RemoveNegativesNdReverse\bin\Debug\01.RemoveNegativesNdReverse.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\18.Lab-Lists\01.RemoveNegativesNdReverse\obj\Debug\01.RemoveNegativesNdReverse.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\18.Lab-Lists\01.RemoveNegativesNdReverse\obj\Debug\01.RemoveNegativesNdReverse.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\18.Lab-Lists\01.RemoveNegativesNdReverse\obj\Debug\01.RemoveNegativesNdReverse.pdb

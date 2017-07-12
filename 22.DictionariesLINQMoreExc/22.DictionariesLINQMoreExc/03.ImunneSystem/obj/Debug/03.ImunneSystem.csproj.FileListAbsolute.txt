@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\03.ImunneSystem\bin\Debug\03.ImunneSystem.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\03.ImunneSystem\bin\Debug\03.ImunneSystem.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\03.ImunneSystem\bin\Debug\03.ImunneSystem.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\03.ImunneSystem\obj\Debug\03.ImunneSystem.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\03.ImunneSystem\obj\Debug\03.ImunneSystem.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\03.ImunneSystem\obj\Debug\03.ImunneSystem.pdb

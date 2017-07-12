@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.csprojResolveAssemblyReference.cache

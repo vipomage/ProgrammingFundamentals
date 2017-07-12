@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.pdb

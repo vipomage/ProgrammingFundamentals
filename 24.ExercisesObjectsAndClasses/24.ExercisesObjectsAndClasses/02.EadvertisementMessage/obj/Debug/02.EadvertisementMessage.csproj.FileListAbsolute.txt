@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\02.EadvertisementMessage\bin\Debug\02.EadvertisementMessage.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\02.EadvertisementMessage\bin\Debug\02.EadvertisementMessage.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\02.EadvertisementMessage\bin\Debug\02.EadvertisementMessage.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\02.EadvertisementMessage\obj\Debug\02.EadvertisementMessage.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\02.EadvertisementMessage\obj\Debug\02.EadvertisementMessage.pdb

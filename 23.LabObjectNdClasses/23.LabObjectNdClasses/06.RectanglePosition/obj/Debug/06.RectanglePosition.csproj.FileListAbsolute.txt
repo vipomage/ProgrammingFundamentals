@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\06.RectanglePosition\bin\Debug\06.RectanglePosition.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\06.RectanglePosition\bin\Debug\06.RectanglePosition.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\06.RectanglePosition\bin\Debug\06.RectanglePosition.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\06.RectanglePosition\obj\Debug\06.RectanglePosition.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\06.RectanglePosition\obj\Debug\06.RectanglePosition.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\06.RectanglePosition\obj\Debug\06.RectanglePosition.pdb

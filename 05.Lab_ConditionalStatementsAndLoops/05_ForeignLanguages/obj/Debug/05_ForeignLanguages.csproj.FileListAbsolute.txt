@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\05_ForeignLanguages\bin\Debug\05_ForeignLanguages.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\05_ForeignLanguages\bin\Debug\05_ForeignLanguages.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\05_ForeignLanguages\bin\Debug\05_ForeignLanguages.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\05_ForeignLanguages\obj\Debug\05_ForeignLanguages.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\05_ForeignLanguages\obj\Debug\05_ForeignLanguages.pdb

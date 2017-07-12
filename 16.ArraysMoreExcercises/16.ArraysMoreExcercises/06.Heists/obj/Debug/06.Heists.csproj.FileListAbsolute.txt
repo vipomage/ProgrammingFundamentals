@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\06.Heists\bin\Debug\06.Heists.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\06.Heists\bin\Debug\06.Heists.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\06.Heists\bin\Debug\06.Heists.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\06.Heists\obj\Debug\06.Heists.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\06.Heists\obj\Debug\06.Heists.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\06.Heists\obj\Debug\06.Heists.csprojResolveAssemblyReference.cache

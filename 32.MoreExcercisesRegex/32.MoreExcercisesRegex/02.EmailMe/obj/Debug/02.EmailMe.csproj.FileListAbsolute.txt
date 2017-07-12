@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\02.EmailMe\bin\Debug\02.EmailMe.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\02.EmailMe\bin\Debug\02.EmailMe.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\02.EmailMe\bin\Debug\02.EmailMe.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\02.EmailMe\obj\Debug\02.EmailMe.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\02.EmailMe\obj\Debug\02.EmailMe.pdb

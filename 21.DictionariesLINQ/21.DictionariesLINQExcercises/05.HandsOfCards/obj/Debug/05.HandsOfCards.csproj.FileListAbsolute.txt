@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\05.HandsOfCards\bin\Debug\05.HandsOfCards.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\05.HandsOfCards\bin\Debug\05.HandsOfCards.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\05.HandsOfCards\bin\Debug\05.HandsOfCards.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\05.HandsOfCards\obj\Debug\05.HandsOfCards.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\05.HandsOfCards\obj\Debug\05.HandsOfCards.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\05.HandsOfCards\obj\Debug\05.HandsOfCards.pdb

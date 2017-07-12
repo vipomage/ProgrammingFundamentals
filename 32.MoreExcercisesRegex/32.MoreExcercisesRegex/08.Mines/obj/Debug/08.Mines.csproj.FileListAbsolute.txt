@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\08.Mines\bin\Debug\08.Mines.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\08.Mines\bin\Debug\08.Mines.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\08.Mines\bin\Debug\08.Mines.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\08.Mines\obj\Debug\08.Mines.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\08.Mines\obj\Debug\08.Mines.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\08.Mines\obj\Debug\08.Mines.pdb

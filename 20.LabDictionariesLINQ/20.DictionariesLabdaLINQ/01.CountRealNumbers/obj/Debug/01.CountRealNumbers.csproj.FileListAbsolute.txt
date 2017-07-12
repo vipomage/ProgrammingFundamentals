@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\01.CountRealNumbers\bin\Debug\01.CountRealNumbers.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\01.CountRealNumbers\bin\Debug\01.CountRealNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\01.CountRealNumbers\bin\Debug\01.CountRealNumbers.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\01.CountRealNumbers\obj\Debug\01.CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\01.CountRealNumbers\obj\Debug\01.CountRealNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\01.CountRealNumbers\obj\Debug\01.CountRealNumbers.pdb

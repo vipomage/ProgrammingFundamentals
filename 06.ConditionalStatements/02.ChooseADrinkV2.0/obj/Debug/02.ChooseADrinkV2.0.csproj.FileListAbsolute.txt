@@ -1,0 +1,6 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\02.ChooseADrinkV2.0\bin\Debug\02.ChooseADrinkV2.0.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\02.ChooseADrinkV2.0\bin\Debug\02.ChooseADrinkV2.0.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\02.ChooseADrinkV2.0\bin\Debug\02.ChooseADrinkV2.0.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\02.ChooseADrinkV2.0\obj\Debug\02.ChooseADrinkV2.0.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\02.ChooseADrinkV2.0\obj\Debug\02.ChooseADrinkV2.0.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\02.ChooseADrinkV2.0\obj\Debug\02.ChooseADrinkV2.0.csprojResolveAssemblyReference.cache

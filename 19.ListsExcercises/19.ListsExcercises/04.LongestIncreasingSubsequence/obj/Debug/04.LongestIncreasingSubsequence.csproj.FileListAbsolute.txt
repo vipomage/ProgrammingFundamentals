@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\04.LongestIncreasingSubsequence\obj\Debug\04.LongestIncreasingSubsequence.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\04.LongestIncreasingSubsequence\obj\Debug\04.LongestIncreasingSubsequence.pdb

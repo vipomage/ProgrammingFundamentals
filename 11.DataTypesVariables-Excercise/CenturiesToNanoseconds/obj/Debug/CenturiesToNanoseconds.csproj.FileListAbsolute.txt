@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

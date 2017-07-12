@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Greeting", "Greeting\01_Greeting.csproj", "{265E089E-C369-48A3-89C2-A6D8F39ACB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_AddTwoNumbers", "AddTwoNumbers\02_AddTwoNumbers.csproj", "{8FBCBDEA-2E37-4978-893F-B7473EE280D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_EmployeeData", "03_EmployeeData\03_EmployeeData.csproj", "{80F9FE34-8104-47C5-9EC3-ADF86C62909D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265E089E-C369-48A3-89C2-A6D8F39ACB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265E089E-C369-48A3-89C2-A6D8F39ACB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265E089E-C369-48A3-89C2-A6D8F39ACB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265E089E-C369-48A3-89C2-A6D8F39ACB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBCBDEA-2E37-4978-893F-B7473EE280D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBCBDEA-2E37-4978-893F-B7473EE280D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBCBDEA-2E37-4978-893F-B7473EE280D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBCBDEA-2E37-4978-893F-B7473EE280D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F9FE34-8104-47C5-9EC3-ADF86C62909D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F9FE34-8104-47C5-9EC3-ADF86C62909D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F9FE34-8104-47C5-9EC3-ADF86C62909D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F9FE34-8104-47C5-9EC3-ADF86C62909D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

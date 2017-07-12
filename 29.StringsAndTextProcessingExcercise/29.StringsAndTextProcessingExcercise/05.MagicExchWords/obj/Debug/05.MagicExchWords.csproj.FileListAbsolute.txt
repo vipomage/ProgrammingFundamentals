@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\05.MagicExchWords\bin\Debug\05.MagicExchWords.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\05.MagicExchWords\bin\Debug\05.MagicExchWords.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\05.MagicExchWords\bin\Debug\05.MagicExchWords.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\05.MagicExchWords\obj\Debug\05.MagicExchWords.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\05.MagicExchWords\obj\Debug\05.MagicExchWords.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\05.MagicExchWords\obj\Debug\05.MagicExchWords.csprojResolveAssemblyReference.cache

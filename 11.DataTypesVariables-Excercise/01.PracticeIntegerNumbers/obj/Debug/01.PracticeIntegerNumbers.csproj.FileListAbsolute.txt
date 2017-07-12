@@ -1,0 +1,11 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.pdb

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\09.MelrahShake\bin\Debug\09.MelrahShake.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\09.MelrahShake\bin\Debug\09.MelrahShake.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\09.MelrahShake\bin\Debug\09.MelrahShake.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\09.MelrahShake\obj\Debug\09.MelrahShake.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\09.MelrahShake\obj\Debug\09.MelrahShake.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\09.MelrahShake\obj\Debug\09.MelrahShake.pdb

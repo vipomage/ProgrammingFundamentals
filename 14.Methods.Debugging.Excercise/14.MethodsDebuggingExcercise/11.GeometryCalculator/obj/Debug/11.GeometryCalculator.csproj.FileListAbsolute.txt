@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.pdb

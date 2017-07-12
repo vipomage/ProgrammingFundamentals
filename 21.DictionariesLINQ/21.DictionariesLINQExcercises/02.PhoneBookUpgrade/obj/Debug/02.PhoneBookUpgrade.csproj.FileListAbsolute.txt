@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\02.PhoneBookUpgrade\bin\Debug\02.PhoneBookUpgrade.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\02.PhoneBookUpgrade\bin\Debug\02.PhoneBookUpgrade.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\02.PhoneBookUpgrade\bin\Debug\02.PhoneBookUpgrade.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\02.PhoneBookUpgrade\obj\Debug\02.PhoneBookUpgrade.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\02.PhoneBookUpgrade\obj\Debug\02.PhoneBookUpgrade.pdb

@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.pdb

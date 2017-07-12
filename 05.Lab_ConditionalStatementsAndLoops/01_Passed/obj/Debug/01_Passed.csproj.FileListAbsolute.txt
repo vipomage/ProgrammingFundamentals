@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\01_Passed\bin\Debug\01_Passed.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\01_Passed\bin\Debug\01_Passed.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\01_Passed\bin\Debug\01_Passed.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\01_Passed\obj\Debug\01_Passed.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\01_Passed\obj\Debug\01_Passed.pdb

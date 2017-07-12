@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\06.FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\06.FoldAndSum\obj\Debug\06.FoldAndSum.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\06.FoldAndSum\obj\Debug\06.FoldAndSum.pdb

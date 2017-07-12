@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson1\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson1\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson1\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

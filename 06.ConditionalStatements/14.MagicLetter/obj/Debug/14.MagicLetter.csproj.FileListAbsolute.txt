@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\14.MagicLetter\bin\Debug\14.MagicLetter.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\14.MagicLetter\bin\Debug\14.MagicLetter.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\14.MagicLetter\bin\Debug\14.MagicLetter.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\14.MagicLetter\obj\Debug\14.MagicLetter.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\14.MagicLetter\obj\Debug\14.MagicLetter.pdb

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\04.MorseCodeUpgraded\bin\Debug\04.MorseCodeUpgraded.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\04.MorseCodeUpgraded\bin\Debug\04.MorseCodeUpgraded.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\04.MorseCodeUpgraded\bin\Debug\04.MorseCodeUpgraded.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\04.MorseCodeUpgraded\obj\Debug\04.MorseCodeUpgraded.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\04.MorseCodeUpgraded\obj\Debug\04.MorseCodeUpgraded.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\04.MorseCodeUpgraded\obj\Debug\04.MorseCodeUpgraded.pdb

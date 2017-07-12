@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\06.SumReversedNums\bin\Debug\06.SumReversedNums.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\06.SumReversedNums\bin\Debug\06.SumReversedNums.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\06.SumReversedNums\bin\Debug\06.SumReversedNums.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\06.SumReversedNums\obj\Debug\06.SumReversedNums.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\06.SumReversedNums\obj\Debug\06.SumReversedNums.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\06.SumReversedNums\obj\Debug\06.SumReversedNums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\01.CofeeOrders\obj\Debug\01.CofeeOrders.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\01.CofeeOrders\bin\Debug\01.CofeeOrders.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\01.CofeeOrders\bin\Debug\01.CofeeOrders.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\01.CofeeOrders\bin\Debug\01.CofeeOrders.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\01.CofeeOrders\obj\Debug\01.CofeeOrders.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\01.CofeeOrders\obj\Debug\01.CofeeOrders.pdb

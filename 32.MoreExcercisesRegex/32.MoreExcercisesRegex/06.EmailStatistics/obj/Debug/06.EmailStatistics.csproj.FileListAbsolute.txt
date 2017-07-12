@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\06.EmailStatistics\bin\Debug\06.EmailStatistics.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\06.EmailStatistics\bin\Debug\06.EmailStatistics.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\06.EmailStatistics\bin\Debug\06.EmailStatistics.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\06.EmailStatistics\obj\Debug\06.EmailStatistics.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\06.EmailStatistics\obj\Debug\06.EmailStatistics.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\32.MoreExcercisesRegex\32.MoreExcercisesRegex\06.EmailStatistics\obj\Debug\06.EmailStatistics.pdb

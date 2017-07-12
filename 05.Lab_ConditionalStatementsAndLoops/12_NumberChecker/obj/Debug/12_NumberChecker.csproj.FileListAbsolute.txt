@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\12_NumberChecker\bin\Debug\12_NumberChecker.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\12_NumberChecker\bin\Debug\12_NumberChecker.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\12_NumberChecker\bin\Debug\12_NumberChecker.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\12_NumberChecker\obj\Debug\12_NumberChecker.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\12_NumberChecker\obj\Debug\12_NumberChecker.pdb

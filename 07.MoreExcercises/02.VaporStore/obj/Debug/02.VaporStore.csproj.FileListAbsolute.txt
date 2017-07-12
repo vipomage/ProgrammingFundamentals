@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\02.VaporStore\bin\Debug\02.VaporStore.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\02.VaporStore\bin\Debug\02.VaporStore.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\02.VaporStore\bin\Debug\02.VaporStore.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\02.VaporStore\obj\Debug\02.VaporStore.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\003_ProgrammingFundamentals26.05\More Excercises\MoreExcercises\02.VaporStore\obj\Debug\02.VaporStore.pdb

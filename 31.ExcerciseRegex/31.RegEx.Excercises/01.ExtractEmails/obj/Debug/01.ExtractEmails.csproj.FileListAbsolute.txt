@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\01.ExtractEmails\bin\Debug\01.ExtractEmails.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\01.ExtractEmails\bin\Debug\01.ExtractEmails.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\01.ExtractEmails\bin\Debug\01.ExtractEmails.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\01.ExtractEmails\obj\Debug\01.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\01.ExtractEmails\obj\Debug\01.ExtractEmails.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\01.ExtractEmails\obj\Debug\01.ExtractEmails.pdb

@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\03.LastKNumbersSumSequence\bin\Debug\03.LastKNumbersSumSequence.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\03.LastKNumbersSumSequence\bin\Debug\03.LastKNumbersSumSequence.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\03.LastKNumbersSumSequence\bin\Debug\03.LastKNumbersSumSequence.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\03.LastKNumbersSumSequence\obj\Debug\03.LastKNumbersSumSequence.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\03.LastKNumbersSumSequence\obj\Debug\03.LastKNumbersSumSequence.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\03.LastKNumbersSumSequence\obj\Debug\03.LastKNumbersSumSequence.pdb

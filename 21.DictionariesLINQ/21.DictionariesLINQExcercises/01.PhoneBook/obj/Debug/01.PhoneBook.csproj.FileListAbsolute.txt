@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\01.PhoneBook\bin\Debug\01.PhoneBook.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\01.PhoneBook\bin\Debug\01.PhoneBook.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\01.PhoneBook\bin\Debug\01.PhoneBook.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\01.PhoneBook\obj\Debug\01.PhoneBook.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\01.PhoneBook\obj\Debug\01.PhoneBook.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\01.PhoneBook\obj\Debug\01.PhoneBook.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\12.MasterNumbers\bin\Debug\12.MasterNumbers.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\12.MasterNumbers\bin\Debug\12.MasterNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\12.MasterNumbers\bin\Debug\12.MasterNumbers.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\12.MasterNumbers\obj\Debug\12.MasterNumbers.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\12.MasterNumbers\obj\Debug\12.MasterNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\12.MasterNumbers\obj\Debug\12.MasterNumbers.pdb

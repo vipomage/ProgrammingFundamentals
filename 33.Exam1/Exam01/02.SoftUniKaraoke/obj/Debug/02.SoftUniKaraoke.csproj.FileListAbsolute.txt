@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\02.SoftUniKaraoke\bin\Debug\02.SoftUniKaraoke.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\02.SoftUniKaraoke\bin\Debug\02.SoftUniKaraoke.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\02.SoftUniKaraoke\bin\Debug\02.SoftUniKaraoke.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\02.SoftUniKaraoke\obj\Debug\02.SoftUniKaraoke.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\02.SoftUniKaraoke\obj\Debug\02.SoftUniKaraoke.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\02.SoftUniKaraoke\obj\Debug\02.SoftUniKaraoke.pdb

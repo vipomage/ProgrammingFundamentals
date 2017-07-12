@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\14.IntegerToHexBinary\bin\Debug\14.IntegerToHexBinary.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\14.IntegerToHexBinary\bin\Debug\14.IntegerToHexBinary.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\14.IntegerToHexBinary\bin\Debug\14.IntegerToHexBinary.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\14.IntegerToHexBinary\obj\Debug\14.IntegerToHexBinary.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\14.IntegerToHexBinary\obj\Debug\14.IntegerToHexBinary.pdb

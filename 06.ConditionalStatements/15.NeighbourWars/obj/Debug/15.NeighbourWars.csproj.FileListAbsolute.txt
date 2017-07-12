@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\15.NeighbourWars\bin\Debug\15.NeighbourWars.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\15.NeighbourWars\obj\Debug\15.NeighbourWars.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\15.NeighbourWars\obj\Debug\15.NeighbourWars.pdb

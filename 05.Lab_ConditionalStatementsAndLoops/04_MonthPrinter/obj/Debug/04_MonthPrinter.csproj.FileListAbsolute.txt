@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\04_MonthPrinter\bin\Debug\04_MonthPrinter.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\04_MonthPrinter\bin\Debug\04_MonthPrinter.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\04_MonthPrinter\bin\Debug\04_MonthPrinter.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\04_MonthPrinter\obj\Debug\04_MonthPrinter.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\04_MonthPrinter\obj\Debug\04_MonthPrinter.pdb

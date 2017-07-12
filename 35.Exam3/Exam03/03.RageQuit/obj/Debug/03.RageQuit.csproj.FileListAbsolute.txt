@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\03.RageQuit\bin\Debug\03.RageQuit.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\03.RageQuit\bin\Debug\03.RageQuit.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\03.RageQuit\bin\Debug\03.RageQuit.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\03.RageQuit\obj\Debug\03.RageQuit.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\03.RageQuit\obj\Debug\03.RageQuit.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\03.RageQuit\obj\Debug\03.RageQuit.pdb

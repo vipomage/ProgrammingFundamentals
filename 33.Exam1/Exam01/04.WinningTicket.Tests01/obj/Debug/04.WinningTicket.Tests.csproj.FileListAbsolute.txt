@@ -1,0 +1,13 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\04.WinningTicket.Tests.dll
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\04.WinningTicket.Tests.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\04.WinningTicket.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\Microsoft.Pex.Framework.dll
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\Microsoft.ExtendedReflection.dll
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\04.WinningTicket.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\04.WinningTicket.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\bin\Debug\Microsoft.Pex.Framework.xml
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\obj\Debug\04.WinningTicket.Tests.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\obj\Debug\04.WinningTicket.Tests.dll
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket.Tests01\obj\Debug\04.WinningTicket.Tests.pdb

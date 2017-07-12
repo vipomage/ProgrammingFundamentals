@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\06_TheatrePromotions\bin\Debug\06_TheatrePromotions.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\06_TheatrePromotions\bin\Debug\06_TheatrePromotions.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\06_TheatrePromotions\bin\Debug\06_TheatrePromotions.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\06_TheatrePromotions\obj\Debug\06_TheatrePromotions.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\06_TheatrePromotions\obj\Debug\06_TheatrePromotions.pdb

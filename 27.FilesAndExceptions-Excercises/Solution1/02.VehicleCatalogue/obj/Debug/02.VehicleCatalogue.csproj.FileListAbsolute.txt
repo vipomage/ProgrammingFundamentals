@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\02.VehicleCatalogue\bin\Debug\02.VehicleCatalogue.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\02.VehicleCatalogue\bin\Debug\02.VehicleCatalogue.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\02.VehicleCatalogue\bin\Debug\02.VehicleCatalogue.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\02.VehicleCatalogue\obj\Debug\02.VehicleCatalogue.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\02.VehicleCatalogue\obj\Debug\02.VehicleCatalogue.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\02.VehicleCatalogue\obj\Debug\02.VehicleCatalogue.pdb

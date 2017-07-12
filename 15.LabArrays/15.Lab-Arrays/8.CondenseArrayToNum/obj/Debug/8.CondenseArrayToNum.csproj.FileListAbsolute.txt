@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\8.CondenseArrayToNum\bin\Debug\8.CondenseArrayToNum.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\8.CondenseArrayToNum\bin\Debug\8.CondenseArrayToNum.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\8.CondenseArrayToNum\bin\Debug\8.CondenseArrayToNum.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\8.CondenseArrayToNum\obj\Debug\8.CondenseArrayToNum.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\8.CondenseArrayToNum\obj\Debug\8.CondenseArrayToNum.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\8.CondenseArrayToNum\obj\Debug\8.CondenseArrayToNum.pdb

@@ -1,0 +1,16 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\004_ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\004_ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\004_ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\004_ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\004_ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\004_ProgrammingFundamentals31.05\DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

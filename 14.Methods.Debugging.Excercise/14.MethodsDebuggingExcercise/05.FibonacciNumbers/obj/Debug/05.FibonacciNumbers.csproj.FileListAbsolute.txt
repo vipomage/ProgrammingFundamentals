@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.pdb

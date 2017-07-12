@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\02.ExtSentecByKey\bin\Debug\02.ExtSentecByKey.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\02.ExtSentecByKey\bin\Debug\02.ExtSentecByKey.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\02.ExtSentecByKey\bin\Debug\02.ExtSentecByKey.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\02.ExtSentecByKey\obj\Debug\02.ExtSentecByKey.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\02.ExtSentecByKey\obj\Debug\02.ExtSentecByKey.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\02.ExtSentecByKey\obj\Debug\02.ExtSentecByKey.pdb

@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\05.WordInPlural\bin\Debug\05.WordInPlural.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\05.WordInPlural\bin\Debug\05.WordInPlural.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\05.WordInPlural\bin\Debug\05.WordInPlural.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\05.WordInPlural\obj\Debug\05.WordInPlural.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\05.WordInPlural\obj\Debug\05.WordInPlural.pdb

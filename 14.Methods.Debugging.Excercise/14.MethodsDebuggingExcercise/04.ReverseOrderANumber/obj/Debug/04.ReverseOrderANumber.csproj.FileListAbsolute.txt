@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\04.ReverseOrderANumber\bin\Debug\04.ReverseOrderANumber.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\04.ReverseOrderANumber\bin\Debug\04.ReverseOrderANumber.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\04.ReverseOrderANumber\bin\Debug\04.ReverseOrderANumber.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\04.ReverseOrderANumber\obj\Debug\04.ReverseOrderANumber.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\04.ReverseOrderANumber\obj\Debug\04.ReverseOrderANumber.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\04.ReverseOrderANumber\obj\Debug\04.ReverseOrderANumber.pdb

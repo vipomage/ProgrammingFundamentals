@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\08_SumOfOddNumbers\bin\Debug\08_SumOfOddNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\08_SumOfOddNumbers\bin\Debug\08_SumOfOddNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\08_SumOfOddNumbers\bin\Debug\08_SumOfOddNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\08_SumOfOddNumbers\obj\Debug\08_SumOfOddNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\08_SumOfOddNumbers\obj\Debug\08_SumOfOddNumbers.pdb

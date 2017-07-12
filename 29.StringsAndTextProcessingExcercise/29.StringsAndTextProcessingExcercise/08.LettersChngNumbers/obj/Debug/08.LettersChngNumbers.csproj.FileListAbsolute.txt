@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\08.LettersChngNumbers\bin\Debug\08.LettersChngNumbers.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\08.LettersChngNumbers\bin\Debug\08.LettersChngNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\08.LettersChngNumbers\bin\Debug\08.LettersChngNumbers.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\08.LettersChngNumbers\obj\Debug\08.LettersChngNumbers.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\08.LettersChngNumbers\obj\Debug\08.LettersChngNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\08.LettersChngNumbers\obj\Debug\08.LettersChngNumbers.pdb

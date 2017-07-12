@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\06.SumBigNumbers\obj\Debug\06.SumBigNumbers.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\06.SumBigNumbers\obj\Debug\06.SumBigNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\06.SumBigNumbers\obj\Debug\06.SumBigNumbers.pdb

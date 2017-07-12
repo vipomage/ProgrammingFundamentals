@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

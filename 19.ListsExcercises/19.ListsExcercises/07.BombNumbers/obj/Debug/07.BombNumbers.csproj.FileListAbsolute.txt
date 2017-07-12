@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\07.BombNumbers\bin\Debug\07.BombNumbers.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\07.BombNumbers\bin\Debug\07.BombNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\07.BombNumbers\bin\Debug\07.BombNumbers.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\07.BombNumbers\obj\Debug\07.BombNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\07.BombNumbers\obj\Debug\07.BombNumbers.pdb

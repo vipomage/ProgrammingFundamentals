@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.pdb

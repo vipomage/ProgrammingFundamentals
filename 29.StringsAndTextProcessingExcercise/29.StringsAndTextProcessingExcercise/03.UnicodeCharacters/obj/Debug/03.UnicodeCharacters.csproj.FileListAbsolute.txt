@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\03.UnicodeCharacters\bin\Debug\03.UnicodeCharacters.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\03.UnicodeCharacters\bin\Debug\03.UnicodeCharacters.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\03.UnicodeCharacters\bin\Debug\03.UnicodeCharacters.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\03.UnicodeCharacters\obj\Debug\03.UnicodeCharacters.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\03.UnicodeCharacters\obj\Debug\03.UnicodeCharacters.pdb

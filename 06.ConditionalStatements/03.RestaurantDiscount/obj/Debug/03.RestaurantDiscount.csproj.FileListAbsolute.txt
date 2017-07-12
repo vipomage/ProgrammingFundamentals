@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.pdb

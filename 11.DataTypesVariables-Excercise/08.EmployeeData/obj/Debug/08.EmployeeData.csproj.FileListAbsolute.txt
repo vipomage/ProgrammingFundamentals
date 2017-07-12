@@ -1,0 +1,10 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\08.EmployeeData\bin\Debug\08.EmployeeData.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\08.EmployeeData\bin\Debug\08.EmployeeData.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\08.EmployeeData\bin\Debug\08.EmployeeData.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\08.EmployeeData\obj\Debug\08.EmployeeData.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\08.EmployeeData\obj\Debug\08.EmployeeData.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\08.EmployeeData\bin\Debug\08.EmployeeData.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\08.EmployeeData\bin\Debug\08.EmployeeData.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\08.EmployeeData\bin\Debug\08.EmployeeData.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\08.EmployeeData\obj\Debug\08.EmployeeData.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\08.EmployeeData\obj\Debug\08.EmployeeData.pdb

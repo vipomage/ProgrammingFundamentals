@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\07.TakeSkipRope\bin\Debug\07.TakeSkipRope.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\07.TakeSkipRope\bin\Debug\07.TakeSkipRope.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\07.TakeSkipRope\bin\Debug\07.TakeSkipRope.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.pdb

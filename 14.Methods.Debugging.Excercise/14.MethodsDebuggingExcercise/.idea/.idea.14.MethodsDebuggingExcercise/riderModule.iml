@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../00" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../01.HelloName" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../02.MaxMethod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../03.EnglishNameOftheLDigit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../04.ReverseOrderANumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../05.FibonacciNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../06.PrimeChecker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../07.PrimesinGivenRange" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../08.CenterPoint" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../00/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../00/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.HelloName/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.HelloName/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.MaxMethod/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.MaxMethod/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../03.EnglishNameOftheLDigit/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../03.EnglishNameOftheLDigit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../04.ReverseOrderANumber/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../04.ReverseOrderANumber/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../05.FibonacciNumbers/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../05.FibonacciNumbers/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../06.PrimeChecker/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../06.PrimeChecker/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../07.PrimesinGivenRange/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../07.PrimesinGivenRange/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../08.CenterPoint/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../08.CenterPoint/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

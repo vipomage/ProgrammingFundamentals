@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\06.UserLogs\bin\Debug\06.UserLogs.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\06.UserLogs\bin\Debug\06.UserLogs.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\06.UserLogs\bin\Debug\06.UserLogs.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\06.UserLogs\obj\Debug\06.UserLogs.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\06.UserLogs\obj\Debug\06.UserLogs.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\21.DictionariesLINQ\21.DictionariesLINQExcercises\06.UserLogs\obj\Debug\06.UserLogs.pdb

@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\06.IntervalOfNumbers\obj\Debug\06.IntervalOfNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\06.IntervalOfNumbers\obj\Debug\06.IntervalOfNumbers.pdb

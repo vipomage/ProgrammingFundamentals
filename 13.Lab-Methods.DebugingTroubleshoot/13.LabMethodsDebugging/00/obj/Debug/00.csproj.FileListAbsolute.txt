@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\00\bin\Debug\00.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\00\bin\Debug\00.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\00\bin\Debug\00.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\00\obj\Debug\00.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\00\obj\Debug\00.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\00\obj\Debug\00.pdb

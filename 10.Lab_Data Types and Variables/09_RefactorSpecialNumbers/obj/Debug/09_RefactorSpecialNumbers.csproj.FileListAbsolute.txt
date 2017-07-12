@@ -1,0 +1,6 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\09_RefactorSpecialNumbers\bin\Debug\09_RefactorSpecialNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\09_RefactorSpecialNumbers\bin\Debug\09_RefactorSpecialNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\09_RefactorSpecialNumbers\bin\Debug\09_RefactorSpecialNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\09_RefactorSpecialNumbers\obj\Debug\09_RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\09_RefactorSpecialNumbers\obj\Debug\09_RefactorSpecialNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\09_RefactorSpecialNumbers\obj\Debug\09_RefactorSpecialNumbers.pdb

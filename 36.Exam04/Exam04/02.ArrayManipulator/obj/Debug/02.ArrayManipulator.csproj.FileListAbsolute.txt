@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.pdb

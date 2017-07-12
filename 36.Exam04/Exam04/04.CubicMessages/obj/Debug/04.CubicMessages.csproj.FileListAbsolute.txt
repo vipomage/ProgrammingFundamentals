@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\04.CubicMessages\bin\Debug\04.CubicMessages.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\04.CubicMessages\bin\Debug\04.CubicMessages.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\04.CubicMessages\bin\Debug\04.CubicMessages.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\04.CubicMessages\obj\Debug\04.CubicMessages.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\04.CubicMessages\obj\Debug\04.CubicMessages.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\04.CubicMessages\obj\Debug\04.CubicMessages.pdb

@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\07.PlayCatch\bin\Debug\07.PlayCatch.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\07.PlayCatch\bin\Debug\07.PlayCatch.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\07.PlayCatch\bin\Debug\07.PlayCatch.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\07.PlayCatch\obj\Debug\07.PlayCatch.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\07.PlayCatch\obj\Debug\07.PlayCatch.pdb

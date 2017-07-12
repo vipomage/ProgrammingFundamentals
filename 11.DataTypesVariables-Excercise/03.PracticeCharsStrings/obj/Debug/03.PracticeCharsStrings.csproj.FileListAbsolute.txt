@@ -1,0 +1,10 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\03.PracticeCharsStrings\obj\Debug\03.PracticeCharsStrings.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\03.PracticeCharsStrings\obj\Debug\03.PracticeCharsStrings.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\03.PracticeCharsStrings\obj\Debug\03.PracticeCharsStrings.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\03.PracticeCharsStrings\obj\Debug\03.PracticeCharsStrings.pdb

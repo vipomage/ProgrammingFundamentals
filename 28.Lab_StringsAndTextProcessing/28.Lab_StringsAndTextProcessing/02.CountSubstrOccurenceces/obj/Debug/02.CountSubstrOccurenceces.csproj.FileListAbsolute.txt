@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\02.CountSubstrOccurenceces\bin\Debug\02.CountSubstrOccurenceces.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\02.CountSubstrOccurenceces\bin\Debug\02.CountSubstrOccurenceces.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\02.CountSubstrOccurenceces\bin\Debug\02.CountSubstrOccurenceces.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\02.CountSubstrOccurenceces\obj\Debug\02.CountSubstrOccurenceces.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\02.CountSubstrOccurenceces\obj\Debug\02.CountSubstrOccurenceces.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\28.Lab_StringsAndTextProcessing\28.Lab_StringsAndTextProcessing\02.CountSubstrOccurenceces\obj\Debug\02.CountSubstrOccurenceces.pdb

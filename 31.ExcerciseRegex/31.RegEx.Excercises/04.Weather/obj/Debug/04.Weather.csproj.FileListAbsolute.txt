@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\04.Weather\bin\Debug\04.Weather.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\04.Weather\bin\Debug\04.Weather.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\04.Weather\bin\Debug\04.Weather.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\04.Weather\obj\Debug\04.Weather.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\04.Weather\obj\Debug\04.Weather.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\04.Weather\obj\Debug\04.Weather.csprojResolveAssemblyReference.cache

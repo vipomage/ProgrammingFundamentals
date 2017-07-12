@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\17.PrintPartOfASCIITable\obj\Debug\17.PrintPartOfASCIITable.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\17.PrintPartOfASCIITable\obj\Debug\17.PrintPartOfASCIITable.pdb

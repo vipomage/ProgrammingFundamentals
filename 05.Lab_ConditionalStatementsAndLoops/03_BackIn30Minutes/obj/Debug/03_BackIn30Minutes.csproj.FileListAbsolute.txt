@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\03_BackIn30Minutes\bin\Debug\03_BackIn30Minutes.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\03_BackIn30Minutes\bin\Debug\03_BackIn30Minutes.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\03_BackIn30Minutes\bin\Debug\03_BackIn30Minutes.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\03_BackIn30Minutes\obj\Debug\03_BackIn30Minutes.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\Lesson2\03_BackIn30Minutes\obj\Debug\03_BackIn30Minutes.pdb

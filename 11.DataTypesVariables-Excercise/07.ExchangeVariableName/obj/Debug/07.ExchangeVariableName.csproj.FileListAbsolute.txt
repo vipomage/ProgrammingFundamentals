@@ -1,0 +1,10 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\07.ExchangeVariableName\bin\Debug\07.ExchangeVariableName.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\07.ExchangeVariableName\bin\Debug\07.ExchangeVariableName.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\07.ExchangeVariableName\bin\Debug\07.ExchangeVariableName.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\07.ExchangeVariableName\obj\Debug\07.ExchangeVariableName.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\07.ExchangeVariableName\obj\Debug\07.ExchangeVariableName.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\07.ExchangeVariableName\bin\Debug\07.ExchangeVariableName.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\07.ExchangeVariableName\bin\Debug\07.ExchangeVariableName.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\07.ExchangeVariableName\bin\Debug\07.ExchangeVariableName.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\07.ExchangeVariableName\obj\Debug\07.ExchangeVariableName.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\07.ExchangeVariableName\obj\Debug\07.ExchangeVariableName.pdb

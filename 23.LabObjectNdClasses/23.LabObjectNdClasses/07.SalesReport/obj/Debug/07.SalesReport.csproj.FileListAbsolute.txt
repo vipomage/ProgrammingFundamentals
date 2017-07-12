@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\07.SalesReport\bin\Debug\07.SalesReport.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\07.SalesReport\bin\Debug\07.SalesReport.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\07.SalesReport\bin\Debug\07.SalesReport.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\07.SalesReport\obj\Debug\07.SalesReport.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\07.SalesReport\obj\Debug\07.SalesReport.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\07.SalesReport\obj\Debug\07.SalesReport.pdb

@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.pdb

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\01.MaxSeqOfEquallElmnts\bin\Debug\01.MaxSeqOfEquallElmnts.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\01.MaxSeqOfEquallElmnts\bin\Debug\01.MaxSeqOfEquallElmnts.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\01.MaxSeqOfEquallElmnts\bin\Debug\01.MaxSeqOfEquallElmnts.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\01.MaxSeqOfEquallElmnts\obj\Debug\01.MaxSeqOfEquallElmnts.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\01.MaxSeqOfEquallElmnts\obj\Debug\01.MaxSeqOfEquallElmnts.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\19.ListsExcercises\19.ListsExcercises\01.MaxSeqOfEquallElmnts\obj\Debug\01.MaxSeqOfEquallElmnts.pdb

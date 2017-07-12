@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\02.OddFilter\bin\Debug\02.OddFilter.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\02.OddFilter\bin\Debug\02.OddFilter.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\02.OddFilter\bin\Debug\02.OddFilter.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\02.OddFilter\obj\Debug\02.OddFilter.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\02.OddFilter\obj\Debug\02.OddFilter.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\22.DictionariesLINQMoreExc\22.DictionariesLINQMoreExc\02.OddFilter\obj\Debug\02.OddFilter.pdb

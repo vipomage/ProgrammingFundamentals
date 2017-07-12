@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\01.DayOfWeek\bin\Debug\01.DayOfWeek.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\01.DayOfWeek\obj\Debug\01.DayOfWeek.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\01.DayOfWeek\obj\Debug\01.DayOfWeek.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\01.DayOfWeek\obj\Debug\01.DayOfWeek.pdb

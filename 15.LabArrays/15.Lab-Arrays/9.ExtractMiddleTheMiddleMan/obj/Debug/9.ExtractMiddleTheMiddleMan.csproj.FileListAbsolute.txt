@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\9.ExtractMiddleTheMiddleMan\bin\Debug\9.ExtractMiddleTheMiddleMan.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\9.ExtractMiddleTheMiddleMan\bin\Debug\9.ExtractMiddleTheMiddleMan.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\9.ExtractMiddleTheMiddleMan\bin\Debug\9.ExtractMiddleTheMiddleMan.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\9.ExtractMiddleTheMiddleMan\obj\Debug\9.ExtractMiddleTheMiddleMan.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\9.ExtractMiddleTheMiddleMan\obj\Debug\9.ExtractMiddleTheMiddleMan.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\9.ExtractMiddleTheMiddleMan\obj\Debug\9.ExtractMiddleTheMiddleMan.pdb

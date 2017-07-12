@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\01.SweetDesert\obj\Debug\01.SweetDesert.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\01.SweetDesert\bin\Debug\01.SweetDesert.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\01.SweetDesert\bin\Debug\01.SweetDesert.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\01.SweetDesert\bin\Debug\01.SweetDesert.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\01.SweetDesert\obj\Debug\01.SweetDesert.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\01.SweetDesert\obj\Debug\01.SweetDesert.pdb

@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.pdb

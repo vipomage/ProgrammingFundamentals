@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket\bin\Debug\04.WinningTicket.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket\bin\Debug\04.WinningTicket.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket\bin\Debug\04.WinningTicket.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket\obj\Debug\04.WinningTicket.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket\obj\Debug\04.WinningTicket.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\33.Exam1\Exam01\04.WinningTicket\obj\Debug\04.WinningTicket.csprojResolveAssemblyReference.cache

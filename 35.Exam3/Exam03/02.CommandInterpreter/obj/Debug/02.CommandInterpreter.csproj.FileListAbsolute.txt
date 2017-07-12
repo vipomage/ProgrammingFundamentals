@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\35.Exam3\Exam03\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.pdb

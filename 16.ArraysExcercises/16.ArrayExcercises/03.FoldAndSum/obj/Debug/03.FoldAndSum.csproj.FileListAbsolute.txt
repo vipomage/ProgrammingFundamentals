@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb

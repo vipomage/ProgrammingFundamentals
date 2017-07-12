@@ -1,0 +1,10 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\ProgrammingFundamentals31.05\DataTypesVariables-Excercise\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

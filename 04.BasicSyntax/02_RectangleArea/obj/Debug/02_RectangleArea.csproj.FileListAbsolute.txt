@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\01_Excercises\02_RectangleArea\bin\Debug\02_RectangleArea.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\01_Excercises\02_RectangleArea\bin\Debug\02_RectangleArea.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\01_Excercises\02_RectangleArea\bin\Debug\02_RectangleArea.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\01_Excercises\02_RectangleArea\obj\Debug\02_RectangleArea.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\01_Excercises\02_RectangleArea\obj\Debug\02_RectangleArea.pdb

@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\06.MaxSeqOfEqualEllmnts\bin\Debug\06.MaxSeqOfEqualEllmnts.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\06.MaxSeqOfEqualEllmnts\bin\Debug\06.MaxSeqOfEqualEllmnts.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\06.MaxSeqOfEqualEllmnts\bin\Debug\06.MaxSeqOfEqualEllmnts.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\06.MaxSeqOfEqualEllmnts\obj\Debug\06.MaxSeqOfEqualEllmnts.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\06.MaxSeqOfEqualEllmnts\obj\Debug\06.MaxSeqOfEqualEllmnts.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\06.MaxSeqOfEqualEllmnts\obj\Debug\06.MaxSeqOfEqualEllmnts.pdb

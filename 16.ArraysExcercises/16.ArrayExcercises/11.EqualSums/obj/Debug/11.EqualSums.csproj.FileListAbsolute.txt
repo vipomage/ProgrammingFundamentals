@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\11.EqualSums\obj\Debug\11.EqualSums.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\11.EqualSums\bin\Debug\11.EqualSums.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\11.EqualSums\bin\Debug\11.EqualSums.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\11.EqualSums\bin\Debug\11.EqualSums.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\11.EqualSums\obj\Debug\11.EqualSums.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\11.EqualSums\obj\Debug\11.EqualSums.pdb

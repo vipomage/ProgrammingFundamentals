@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\06.ReverseArrayStrings\bin\Debug\06.ReverseArrayStrings.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\06.ReverseArrayStrings\bin\Debug\06.ReverseArrayStrings.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\06.ReverseArrayStrings\bin\Debug\06.ReverseArrayStrings.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\06.ReverseArrayStrings\obj\Debug\06.ReverseArrayStrings.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\06.ReverseArrayStrings\obj\Debug\06.ReverseArrayStrings.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\15.LabArrays\15.Lab-Arrays\06.ReverseArrayStrings\obj\Debug\06.ReverseArrayStrings.pdb

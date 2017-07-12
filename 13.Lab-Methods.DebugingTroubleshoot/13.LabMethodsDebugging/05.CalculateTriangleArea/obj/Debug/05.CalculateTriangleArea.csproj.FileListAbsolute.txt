@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\13.Lab-Methods.DebugingTroubleshoot\13.LabMethodsDebugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.pdb

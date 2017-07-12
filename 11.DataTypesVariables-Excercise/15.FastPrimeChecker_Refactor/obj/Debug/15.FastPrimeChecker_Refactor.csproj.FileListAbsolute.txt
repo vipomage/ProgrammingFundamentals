@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\15.FastPrimeChecker_Refactor\bin\Debug\15.FastPrimeChecker_Refactor.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\15.FastPrimeChecker_Refactor\bin\Debug\15.FastPrimeChecker_Refactor.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\15.FastPrimeChecker_Refactor\bin\Debug\15.FastPrimeChecker_Refactor.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\15.FastPrimeChecker_Refactor\obj\Debug\15.FastPrimeChecker_Refactor.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\15.FastPrimeChecker_Refactor\obj\Debug\15.FastPrimeChecker_Refactor.pdb

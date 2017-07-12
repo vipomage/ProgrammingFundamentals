@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\30.LabREGULAREXPRESSIONS(REGEX)\LabREGULAREXPRESSIONS(REGEX)\00\bin\Debug\00.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\30.LabREGULAREXPRESSIONS(REGEX)\LabREGULAREXPRESSIONS(REGEX)\00\bin\Debug\00.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\30.LabREGULAREXPRESSIONS(REGEX)\LabREGULAREXPRESSIONS(REGEX)\00\bin\Debug\00.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\30.LabREGULAREXPRESSIONS(REGEX)\LabREGULAREXPRESSIONS(REGEX)\00\obj\Debug\00.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\30.LabREGULAREXPRESSIONS(REGEX)\LabREGULAREXPRESSIONS(REGEX)\00\obj\Debug\00.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\30.LabREGULAREXPRESSIONS(REGEX)\LabREGULAREXPRESSIONS(REGEX)\00\obj\Debug\00.pdb

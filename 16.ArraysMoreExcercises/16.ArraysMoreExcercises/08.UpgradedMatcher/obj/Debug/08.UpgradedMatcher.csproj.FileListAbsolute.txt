@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysMoreExcercises\16.ArraysMoreExcercises\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.csprojResolveAssemblyReference.cache

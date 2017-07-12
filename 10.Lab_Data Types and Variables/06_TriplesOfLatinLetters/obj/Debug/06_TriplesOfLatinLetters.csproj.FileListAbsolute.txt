@@ -1,0 +1,6 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\06_TriplesOfLatinLetters\bin\Debug\06_TriplesOfLatinLetters.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\06_TriplesOfLatinLetters\bin\Debug\06_TriplesOfLatinLetters.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\06_TriplesOfLatinLetters\bin\Debug\06_TriplesOfLatinLetters.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\06_TriplesOfLatinLetters\obj\Debug\06_TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\06_TriplesOfLatinLetters\obj\Debug\06_TriplesOfLatinLetters.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\06_TriplesOfLatinLetters\obj\Debug\06_TriplesOfLatinLetters.pdb

@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\16.ComparingFloats\bin\Debug\16.ComparingFloats.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\16.ComparingFloats\obj\Debug\16.ComparingFloats.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\16.ComparingFloats\obj\Debug\16.ComparingFloats.pdb

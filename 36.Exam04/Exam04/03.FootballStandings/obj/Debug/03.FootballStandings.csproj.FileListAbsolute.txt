@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\03.FootballStandings\bin\Debug\03.FootballStandings.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\03.FootballStandings\bin\Debug\03.FootballStandings.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\03.FootballStandings\bin\Debug\03.FootballStandings.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\03.FootballStandings\obj\Debug\03.FootballStandings.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\03.FootballStandings\obj\Debug\03.FootballStandings.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\03.FootballStandings\obj\Debug\03.FootballStandings.pdb

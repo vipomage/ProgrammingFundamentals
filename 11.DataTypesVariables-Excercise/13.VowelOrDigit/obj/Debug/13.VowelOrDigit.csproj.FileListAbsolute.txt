@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\10.DataTypesVariables-Excercise\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\11.5DifferentNumbers\bin\Debug\11.5DifferentNumbers.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\11.5DifferentNumbers\bin\Debug\11.5DifferentNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\11.5DifferentNumbers\bin\Debug\11.5DifferentNumbers.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\11.5DifferentNumbers\obj\Debug\11.5DifferentNumbers.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\Excercises\ConditionalStatements\11.5DifferentNumbers\obj\Debug\11.5DifferentNumbers.pdb

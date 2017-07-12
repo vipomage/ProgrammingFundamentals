@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\001\bin\Debug\001.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\001\bin\Debug\001.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\001\bin\Debug\001.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\001\obj\Debug\001.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\36.Exam04\Exam04\001\obj\Debug\001.pdb

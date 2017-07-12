@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\06.ValidUsernames\bin\Debug\06.ValidUsernames.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\06.ValidUsernames\obj\Debug\06.ValidUsernames.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\06.ValidUsernames\obj\Debug\06.ValidUsernames.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\31.ExcerciseRegex\31.RegEx.Excercises\06.ValidUsernames\obj\Debug\06.ValidUsernames.pdb

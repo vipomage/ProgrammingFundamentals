@@ -1,0 +1,10 @@
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\02_CircleArea\bin\Debug\02_CircleArea.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\02_CircleArea\bin\Debug\02_CircleArea.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\02_CircleArea\bin\Debug\02_CircleArea.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\02_CircleArea\obj\Debug\02_CircleArea.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\001_ProgrammingFundamentals22.05\02ProgrammingFundamentals24.05\02_CircleArea\obj\Debug\02_CircleArea.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\02_CircleArea\bin\Debug\02_CircleArea.exe.config
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\02_CircleArea\bin\Debug\02_CircleArea.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\02_CircleArea\bin\Debug\02_CircleArea.pdb
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\02_CircleArea\obj\Debug\02_CircleArea.exe
+C:\Users\VIPo\Documents\Visual Studio 2017\Projects\002_ProgrammingFundamentals24.05\02ProgrammingFundamentals24.05\02_CircleArea\obj\Debug\02_CircleArea.pdb

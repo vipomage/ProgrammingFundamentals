@@ -1,0 +1,6 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\14.Methods.Debugging.Excercise\14.MethodsDebuggingExcercise\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.pdb

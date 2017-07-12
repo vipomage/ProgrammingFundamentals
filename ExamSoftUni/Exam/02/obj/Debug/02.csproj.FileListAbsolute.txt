@@ -1,0 +1,6 @@
+C:\Users\vipom\documents\visual studio 2017\Projects\Exam\02\bin\Debug\02.exe.config
+C:\Users\vipom\documents\visual studio 2017\Projects\Exam\02\bin\Debug\02.exe
+C:\Users\vipom\documents\visual studio 2017\Projects\Exam\02\bin\Debug\02.pdb
+C:\Users\vipom\documents\visual studio 2017\Projects\Exam\02\obj\Debug\02.csprojResolveAssemblyReference.cache
+C:\Users\vipom\documents\visual studio 2017\Projects\Exam\02\obj\Debug\02.exe
+C:\Users\vipom\documents\visual studio 2017\Projects\Exam\02\obj\Debug\02.pdb

@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\02.ConvFromNto10Base\bin\Debug\02.ConvFromNto10Base.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\02.ConvFromNto10Base\bin\Debug\02.ConvFromNto10Base.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\02.ConvFromNto10Base\bin\Debug\02.ConvFromNto10Base.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\02.ConvFromNto10Base\obj\Debug\02.ConvFromNto10Base.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\02.ConvFromNto10Base\obj\Debug\02.ConvFromNto10Base.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\02.ConvFromNto10Base\obj\Debug\02.ConvFromNto10Base.csprojResolveAssemblyReference.cache

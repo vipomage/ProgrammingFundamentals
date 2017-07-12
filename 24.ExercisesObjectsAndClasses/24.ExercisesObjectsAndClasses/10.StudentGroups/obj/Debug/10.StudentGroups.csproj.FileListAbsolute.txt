@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\10.StudentGroups\bin\Debug\10.StudentGroups.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\10.StudentGroups\bin\Debug\10.StudentGroups.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\10.StudentGroups\bin\Debug\10.StudentGroups.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\10.StudentGroups\obj\Debug\10.StudentGroups.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\10.StudentGroups\obj\Debug\10.StudentGroups.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\24.ExercisesObjectsAndClasses\24.ExercisesObjectsAndClasses\10.StudentGroups\obj\Debug\10.StudentGroups.pdb

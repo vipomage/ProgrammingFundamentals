@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\07.MultiplyBigNumbers\bin\Debug\07.MultiplyBigNumbers.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\07.MultiplyBigNumbers\bin\Debug\07.MultiplyBigNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\07.MultiplyBigNumbers\bin\Debug\07.MultiplyBigNumbers.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\07.MultiplyBigNumbers\obj\Debug\07.MultiplyBigNumbers.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\29.StringsAndTextProcessingExcercise\29.StringsAndTextProcessingExcercise\07.MultiplyBigNumbers\obj\Debug\07.MultiplyBigNumbers.pdb

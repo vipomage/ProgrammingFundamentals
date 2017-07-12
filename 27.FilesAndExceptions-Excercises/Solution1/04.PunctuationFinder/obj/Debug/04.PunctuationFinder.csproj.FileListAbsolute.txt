@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\04.PunctuationFinder\bin\Debug\04.PunctuationFinder.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\04.PunctuationFinder\bin\Debug\04.PunctuationFinder.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\04.PunctuationFinder\bin\Debug\04.PunctuationFinder.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\04.PunctuationFinder\obj\Debug\04.PunctuationFinder.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\04.PunctuationFinder\obj\Debug\04.PunctuationFinder.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\04.PunctuationFinder\obj\Debug\04.PunctuationFinder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\05.WriteToFile\bin\Debug\05.WriteToFile.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\05.WriteToFile\bin\Debug\05.WriteToFile.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\05.WriteToFile\bin\Debug\05.WriteToFile.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\05.WriteToFile\obj\Debug\05.WriteToFile.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\05.WriteToFile\obj\Debug\05.WriteToFile.pdb

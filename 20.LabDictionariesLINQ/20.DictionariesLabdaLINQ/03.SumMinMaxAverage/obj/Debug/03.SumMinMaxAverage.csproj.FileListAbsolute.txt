@@ -1,0 +1,5 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\20.LabDictionariesLINQ\20.DictionariesLabdaLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.pdb

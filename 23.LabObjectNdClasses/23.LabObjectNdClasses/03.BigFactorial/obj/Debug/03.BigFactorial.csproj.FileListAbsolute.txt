@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\03.BigFactorial\bin\Debug\03.BigFactorial.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\03.BigFactorial\bin\Debug\03.BigFactorial.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\03.BigFactorial\bin\Debug\03.BigFactorial.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\03.BigFactorial\obj\Debug\03.BigFactorial.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\03.BigFactorial\obj\Debug\03.BigFactorial.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\23.LabObjectNdClasses\23.LabObjectNdClasses\03.BigFactorial\obj\Debug\03.BigFactorial.pdb

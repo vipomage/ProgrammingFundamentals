@@ -1,0 +1,5 @@
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe.config
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\10.PairsByDifference\bin\Debug\10.PairsByDifference.pdb
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\10.PairsByDifference\obj\Debug\10.PairsByDifference.exe
+D:\G-Drive\C#\Projects\ProgrammingFundamentals2ndModule\16.ArraysExcercises\16.ArrayExcercises\10.PairsByDifference\obj\Debug\10.PairsByDifference.pdb

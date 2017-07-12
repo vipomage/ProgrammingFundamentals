@@ -1,0 +1,6 @@
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\03.JARVIS\bin\Debug\03.JARVIS.exe.config
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\03.JARVIS\bin\Debug\03.JARVIS.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\03.JARVIS\bin\Debug\03.JARVIS.pdb
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\03.JARVIS\obj\Debug\03.JARVIS.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\03.JARVIS\obj\Debug\03.JARVIS.exe
+D:\GoogleDrive\C#\Projects\ProgrammingFundamentals2ndModule\27.FilesAndExceptions-Excercises\Solution1\03.JARVIS\obj\Debug\03.JARVIS.pdb
